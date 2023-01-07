@@ -88,8 +88,6 @@ button.primary-button {
 }
 
 .body-text {
-    /* width: 600px;
-    height: 400px; */
     margin-right: 140px;
     text-align: left;
     margin-top: 240px;
@@ -162,8 +160,9 @@ button.primary-button {
     font-size: 20px;
     font-weight: 600;
 }
-/* lok back section */
-.look-back{
+
+/* additional section */
+.look-back {
     display: flex;
     justify-content: center;
     margin-left: 200px;
@@ -172,8 +171,7 @@ button.primary-button {
 
 /* gradiant style */
 .gradiant {
-    /* background-image: url(/images/watch.png); */
-    background: linear-gradient( to right, rgba(230, 126, 34,0.6),rgba(241, 196, 15, 0.1)),  url(../images/watch.png) ;
+    background: linear-gradient(to right, rgba(230, 126, 34, 0.6), rgba(241, 196, 15, 0.1)), url(../images/watch.png);
     width: 950px;
     height: 250px;
     margin-top: 170px;
